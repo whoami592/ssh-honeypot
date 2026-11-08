@@ -32,7 +32,7 @@ Built for **security research, threat intelligence, and education**.
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/<your-username>/ssh-honeypot.git
+git clone https://github.com/whoami592/ssh-honeypot.git
 cd ssh-honeypot
 ```
 
